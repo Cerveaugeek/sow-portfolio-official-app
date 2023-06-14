@@ -14,7 +14,7 @@ export const projects = [
     image: "/images/2.png",
     tags: ["React", "JavaScript", "Vite", "Tailwind"],
     source: "https://cerveaugeek.github.io/sow-hoobank-app/",
-    visit: "https://github.com/Cerveaugeek/sow-hoobank-app,
+    visit: "https://github.com/Cerveaugeek/sow-hoobank-app",
     id: 1,
   },
   {
