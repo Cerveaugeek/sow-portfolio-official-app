@@ -4,7 +4,7 @@ export const projects = [
     description: "This is web3 website build with React",
     image: "./images/1.png",
     tags: ["React", "CSS BEM", "Responsive", "Node"],
-    source: "https://google.com",
+    source: "https://cerveaugeek.github.io/sow-gpt3-react-app",
     visit: "https://github.com/Cerveaugeek/sow-gpt3-react-app",
     id: 0,
   },
@@ -32,8 +32,9 @@ export const projects = [
     description: "A Professional Portfolio website for a Market Research Firm",
     image: "./images/4.png",
     tags: ["Bootstrap 5", "Node", "FontAwesome"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    source: "https://cerveaugeek.github.io/Rewa-mali-portfolio",
+    visit: "https://github.com/Cerveaugeek/Rewa-mali-portfolio/tree/main",
+
     id: 3,
   },
 ];
